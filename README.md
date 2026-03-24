@@ -1,4 +1,3 @@
-/*
 Tic-Tac-Toe (Console Version)
 --------------------------------
 A classic Tic-Tac-Toe implementation with a dynamic twist:
@@ -33,5 +32,4 @@ Status:
 - Next version: Modular redesign + GUI implementation
 
 --------------------------------
-Author: Johan Jibu
-*/
+Author: Johan
